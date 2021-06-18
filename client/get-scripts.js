@@ -78,7 +78,7 @@ function displayMine() { 
         .catch(err => {
             console.error(err)
         })
-}
+};
 
 
 /* *************************
@@ -147,7 +147,7 @@ function displayAll() { 
         .catch(err => {
             console.error(err)
         })
-}
+};
 
 
 /* *************************
@@ -217,4 +217,4 @@ function displayByTitle() { 
         .catch(err => {
             console.error(err)
         })
-}
+};
